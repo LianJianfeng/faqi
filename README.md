@@ -1,0 +1,2 @@
+# faqi
+study
